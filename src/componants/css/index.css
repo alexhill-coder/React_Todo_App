@@ -1,0 +1,16 @@
+body {
+  background-image: url('https://imgs.search.brave.com/oyzMnqSoZ0HESe1-5vo169tiGuLPWsoL2b3dFWCGf4E/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9maWxl/cy4xMjNmcmVldmVj/dG9ycy5jb20vd3At/Y29udGVudC9vcmln/aW5hbC8xMTcxNDEt/YWJzdHJhY3QtbGln/aHQtYmx1ZS1ib2tl/aC1saWdodHMtYmFj/a2dyb3VuZC12ZWN0/b3IuanBn');
+  background-position: center;
+  background-size: cover;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
