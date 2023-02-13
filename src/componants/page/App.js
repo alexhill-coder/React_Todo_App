@@ -109,7 +109,7 @@ function App() {
   // Displays all the componants of the site. All of the functions are either passed onto the componant or into a secondary componant.
   return (
     <div className='App container bg-white p-4 mt-5'>
-      <h1>Task 51.2 - Todo List</h1>
+      <h1>React/Redux Todo List</h1>
       <Addtodoform bool={button} onSubmit={onSubmit} value={value} setValue={setNewValue} />
       <Todolist button1={editButton} button2={removeEntry} button3={completeEntry} setButton={buttonHighLight} />
       <Totalitems />
