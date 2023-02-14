@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+## React Todo App.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Todo app project developed in React/Redux/Bootstrap and an improvement from my previous project. Along with being able to add, delete & complete an item you can now also edit any entry.
 
-## Available Scripts
+<p align="center">
+<img src="https://user-images.githubusercontent.com/119125564/218823067-f36bb67c-5dc3-4ae3-8f70-fbda7ac02be7.png" alt="website widescreen" width="70%"/>
+</p>
 
-In the project directory, you can run:
+## Contents
 
-### `npm start`
+- [How To Install](#how-to-install)
+- [How To Use](#how-to-use)
+- [How You Can Help](#how-you-can-help)
+- [License](#license)
+- [Credits](#credits)
+- [Contact](#contact)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## How To Install
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This app was created using:
+- [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
+- [Redux/Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started)
+- [React Bootstrap](https://react-bootstrap.github.io/getting-started/introduction)
 
-### `npm test`
+To install:
+1. Download the files to a local directory. 
+2. Use a command/terminal to select the directory folder.
+3. Run the following command 'npm install' to download the required modules.
+4. Then once the modules have been downloaded enter the command 'npm start' to compile and run.
+5. In the event that the app doesn't start in the browser enter the following address: 'localhost:3000' 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Alternatively you can check it out here on Github: [Click here to give it a try.](https://alexhill-coder.github.io/React_Todo_App/)
 
-### `npm run build`
+## How To Use
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- To add items to the app, type the word into the text field and click the add butoon.
+- To edit an item click on the edit button, enter the new word into the text field and press the edit button which has been changed from the add button.
+- To delete an element click on the delete button.
+- To show that you've completed an item click completed button to color/strike-through the element and button.
+- The app also lets you know how many items you have completed.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## How you can help
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+If you wish to contribute to any of my files, you are more than welcome to as long as you keep in mind the following:
+ - Provide a description of any minor changes before commiting.
+ - If you are making major changes please branch the project.
+ - Provide a name/handle so you can be aknowledged for your work.
+ - You do not require my permission to proceed with any changes.
+ - As this is an MIT License the project may be copied to another repository for any reason at any time and used how they see fit.
 
-### `npm run eject`
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project falls under The MIT License allowing for the use of this project for any purpose. For more information on this type of license please see the [LICENSE.md](https://github.com/alexhill-coder/React_Todo_App/blob/main/LICENSE.md)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Credits
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Alex Hill
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contact
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Please feel free to contact me here:
+<p align=center>
+<a href="https://www.linkedin.com/in/alex-hill-webdeveloper">
+<img src="https://img.shields.io/badge/-@alex hill webdeveloper-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-hill-webdeveloper/" height=32/>
+</a>
+</p>
